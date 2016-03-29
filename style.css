@@ -1,0 +1,29 @@
+h1 {
+  color: dark grey;
+  font-size: 54px;
+}
+
+.product .img-responsive {
+  margin: 0 auto;
+}
+
+body {
+  margin: 150px;
+  margin-top: 50px;
+  background-color: white;
+}
+
+.header {
+  padding: 100px;
+  padding-top: 10px;
+  background-color: #C0C0C0;
+}
+
+#image {
+  padding: 20px;
+  background-color: white;
+}
+
+#link {
+  font-size: 24px;
+}
